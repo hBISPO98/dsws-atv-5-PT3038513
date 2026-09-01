@@ -4,6 +4,6 @@ Aplicação web desenvolvida em Flask que conta com um formulário interativo pa
 
 ## 👩🏽‍💻 Demonstração
 | Página Inicial - Home |
-| : --- : |
+| :---: |
 | <img src="https://github.com/user-attachments/assets/2fbb4512-1e89-4fcb-b364-06eadaa3d15b" /> |
 
